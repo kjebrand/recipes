@@ -3,6 +3,8 @@
 * Avocado 
 * Lemon
 * Salt
+* Pepper
+
 ## Instructions
 * peel the acocados
 * Put one avocado into the bowl.
