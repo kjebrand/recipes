@@ -4,7 +4,7 @@
 * Lemon
 * Salt
 ## Instructions
-Something else
+* peel the acocados
 
 ## Price
 * Avocado: $2
