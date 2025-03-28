@@ -4,7 +4,7 @@
 * Lemon
 * Salt
 ## Instructions
-Something else
+* Put one avocado into the bowl.
 
 ## Price
 * Avocado: $2
