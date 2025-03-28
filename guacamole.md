@@ -4,6 +4,8 @@
 * Lemon
 * Salt
 * Spisskummen
+* Pepper
+
 ## Instructions
 * peel the acocados
 * Put one avocado into the bowl.
