@@ -4,6 +4,7 @@
 * Lemon
 * Salt
 ## Instructions
+Something else
 
 ## Price
 * Avocado: $2
